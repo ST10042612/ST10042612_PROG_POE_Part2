@@ -20,14 +20,12 @@ C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\CMCS.genruntimeco
 C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\ref\CMCS.dll
 C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\AdminReveiwClaimWindow.g.cs
 C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\AdminSignIn.g.cs
-C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\ClaimRejectOrAccept.g.cs
 C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\CreateClaimWindow.g.cs
 C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\ErrorPopup.g.cs
 C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\LecturerReviewClaimWindow.g.cs
 C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\LecturerSignIn.g.cs
 C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\AdminReveiwClaimWindow.baml
 C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\AdminSignIn.baml
-C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\ClaimRejectOrAccept.baml
 C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\CreateClaimWindow.baml
 C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\ErrorPopup.baml
 C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\LecturerReviewClaimWindow.baml
@@ -35,3 +33,12 @@ C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\LecturerSignIn.ba
 C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\CMCS.sourcelink.json
 C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\LecturerMainWindow.g.cs
 C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\LecturerMainWindow.baml
+C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\CMCS.csproj.AssemblyReference.cache
+C:\Users\Mjpae\source\repos\CMCS\CMCS\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Mjpae\source\repos\CMCS\CMCS\bin\Debug\net6.0-windows\Azure.Data.Tables.dll
+C:\Users\Mjpae\source\repos\CMCS\CMCS\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mjpae\source\repos\CMCS\CMCS\bin\Debug\net6.0-windows\System.ClientModel.dll
+C:\Users\Mjpae\source\repos\CMCS\CMCS\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mjpae\source\repos\CMCS\CMCS\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Mjpae\source\repos\CMCS\CMCS\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Mjpae\source\repos\CMCS\CMCS\obj\Debug\net6.0-windows\CMCS.csproj.Up2Date

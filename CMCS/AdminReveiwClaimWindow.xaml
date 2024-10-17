@@ -8,9 +8,18 @@
         Title="AdminReveiwClaimWindow" Height="450" Width="800">
     <Grid Background="#FF48CAE4">
 
-        <Button x:Name="BackBtn" Content="Back" HorizontalAlignment="Left" Margin="653,360,0,0" VerticalAlignment="Top" Height="40" Width="86" FontSize="18" Click="BackBtn_Click" Background="White"/>
-        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="61,157,61,139"/>
+        <Button x:Name="BackBtn" Content="Back" HorizontalAlignment="Left" Margin="634,363,0,0" VerticalAlignment="Top" Height="40" Width="86" FontSize="18" Click="BackBtn_Click" Background="White"/>
+        <DataGrid Name="ClaimsDataGrid" AutoGenerateColumns="False" SelectionChanged="ClaimsDataGrid_SelectionChanged" Margin="268,80,268,150">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Claim ID" Binding="{Binding ClaimID}" />
+                <DataGridTextColumn Header="Hours Worked" Binding="{Binding HoursWorked}" />
+                <DataGridTextColumn Header="Hourly Rate" Binding="{Binding HourlyRate}" />
+                <DataGridTextColumn Header="Status" Binding="{Binding Status}" />
+            </DataGrid.Columns>
+        </DataGrid>
         <Label x:Name="ClaimsLbl" Content="Claims to Review" HorizontalAlignment="Center" Margin="0,33,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Button x:Name="RejectBtn" Content="Reject" HorizontalAlignment="Left" Margin="446,301,0,0" VerticalAlignment="Top" Height="40" Width="86" FontSize="18" Click="RejectBtn_Click" Background="White"/>
+        <Button x:Name="AcceptBtn" Content="Accept" HorizontalAlignment="Left" Margin="268,301,0,0" VerticalAlignment="Top" Height="40" Width="86" FontSize="18" Click="AcceptBtn_Click" Background="White"/>
 
     </Grid>
 </Window>

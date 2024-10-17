@@ -53,7 +53,7 @@ namespace CMCS
             if (fileDialog.ShowDialog() == true)
             {
                 fileName = fileDialog.FileName;
-                docNamesTb.Text = fileName;//https://learn.microsoft.com/en-us/dotnet/desktop/wpf/controls/how-to-set-the-text-content-of-a-textbox-control?view=netframeworkdesktop-4.8
+                //docNamesTb.Text = fileName;//https://learn.microsoft.com/en-us/dotnet/desktop/wpf/controls/how-to-set-the-text-content-of-a-textbox-control?view=netframeworkdesktop-4.8
             }
 
         }

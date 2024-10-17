@@ -13,9 +13,6 @@
     <Compile Update="AdminSignIn.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="ClaimRejectOrAccept.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Update="CreateClaimWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -37,9 +34,6 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="AdminSignIn.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="ClaimRejectOrAccept.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="CreateClaimWindow.xaml">
