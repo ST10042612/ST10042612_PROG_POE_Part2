@@ -6,11 +6,11 @@
         xmlns:local="clr-namespace:CMCS"
         mc:Ignorable="d"
         Title="ClaimRejectOrAccept" Height="450" Width="400">
-    <Grid>
+    <Grid Background="#FF48CAE4">
 
         <Label x:Name="TitleLbl" Content="Claim: (ClaimID)" HorizontalAlignment="Center" Margin="0,22,0,0" VerticalAlignment="Top" FontSize="24"/>
-        <Button x:Name="RejectBtn" Content="Reject" HorizontalAlignment="Left" Margin="234,311,0,0" VerticalAlignment="Top" FontSize="18"/>
-        <Button x:Name="AcceptBtn" Content="Accept" HorizontalAlignment="Left" Margin="102,311,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Button x:Name="RejectBtn" Content="Reject" HorizontalAlignment="Left" Margin="234,311,0,0" VerticalAlignment="Top" FontSize="18" Background="White"/>
+        <Button x:Name="AcceptBtn" Content="Accept" HorizontalAlignment="Left" Margin="102,311,0,0" VerticalAlignment="Top" FontSize="18" Background="White"/>
         <ListView d:ItemsSource="{d:SampleData ItemCount=0}" Margin="78,80,78,156">
             <ListView.View>
                 <GridView>

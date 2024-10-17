@@ -30,7 +30,7 @@ namespace CMCS
             LecturerMainWindow LMW = new LecturerMainWindow();
             LMW.Show();
         }
-        private void CloseAllWindows()
+        private void CloseAllWindows()// https://www.codeproject.com/Questions/118479/Open-a-window-and-close-all-other-in-WPF
         {
             for (int intCounter = App.Current.Windows.Count - 1; intCounter >= 1; intCounter--)
                 App.Current.Windows[intCounter].Close();

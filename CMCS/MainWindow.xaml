@@ -6,9 +6,9 @@
         xmlns:local="clr-namespace:CMCS"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button Name="LBtn" Content="Lecturer" HorizontalAlignment="Left" Margin="471,228,0,0" VerticalAlignment="Top" Width="201" Height="62" FontSize="18" Click="LBtn_Click"/>
-        <Button Name="AdminBtn" Content="Programe Cordinator/Academic Manager" HorizontalAlignment="Left" Margin="104,228,0,0" VerticalAlignment="Top" Width="241" Height="62" Click="AdminBtn_Click"/>
+    <Grid Background="#FF48CAE4">
+        <Button Name="LBtn" Content="Lecturer" HorizontalAlignment="Left" Margin="471,228,0,0" VerticalAlignment="Top" Width="201" Height="62" FontSize="18" Click="LBtn_Click" Background="White"/>
+        <Button Name="AdminBtn" Content="Programe Cordinator/Academic Manager" HorizontalAlignment="Left" Margin="104,228,0,0" VerticalAlignment="Top" Width="241" Height="62" Click="AdminBtn_Click" Background="White"/>
         <Label Content="Welcome to the Contract Monthly Claim System" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="768" FontSize="36"/>
         <Label Content="Please select one of the following" HorizontalAlignment="Center" Margin="0,171,0,0" VerticalAlignment="Top" FontSize="16"/>
 

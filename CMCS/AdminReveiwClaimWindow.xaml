@@ -6,9 +6,9 @@
         xmlns:local="clr-namespace:CMCS"
         mc:Ignorable="d"
         Title="AdminReveiwClaimWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Background="#FF48CAE4">
 
-        <Button x:Name="BackBtn" Content="Back" HorizontalAlignment="Left" Margin="653,360,0,0" VerticalAlignment="Top" Height="40" Width="86" FontSize="18" Click="BackBtn_Click"/>
+        <Button x:Name="BackBtn" Content="Back" HorizontalAlignment="Left" Margin="653,360,0,0" VerticalAlignment="Top" Height="40" Width="86" FontSize="18" Click="BackBtn_Click" Background="White"/>
         <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="61,157,61,139"/>
         <Label x:Name="ClaimsLbl" Content="Claims to Review" HorizontalAlignment="Center" Margin="0,33,0,0" VerticalAlignment="Top" FontSize="24"/>
 

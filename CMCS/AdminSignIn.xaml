@@ -6,11 +6,11 @@
         xmlns:local="clr-namespace:CMCS"
         mc:Ignorable="d"
         Title="AdminSignIn" Height="420" Width="350">
-    <Grid>
+    <Grid Background="#FF48CAE4">
 
         <Label Content="Please Sign in" HorizontalAlignment="Center" Margin="0,27,0,0" VerticalAlignment="Top" FontSize="20"/>
-        <Button Name="SignInBtn" Content="Sign in" HorizontalAlignment="Left" Margin="51,291,0,0" VerticalAlignment="Top" Height="45" Width="77" Click="SignInBtn_Click"/>
-        <Button Name="BackBtn" Content="Back" HorizontalAlignment="Left" Margin="228,286,0,0" VerticalAlignment="Top" Height="45" Width="77" Click="BackBtn_Click"/>
+        <Button Name="SignInBtn" Content="Sign in" HorizontalAlignment="Left" Margin="51,291,0,0" VerticalAlignment="Top" Height="45" Width="77" Click="SignInBtn_Click" Background="White"/>
+        <Button Name="BackBtn" Content="Back" HorizontalAlignment="Left" Margin="228,286,0,0" VerticalAlignment="Top" Height="45" Width="77" Click="BackBtn_Click" Background="White"/>
         <Label x:Name="AdminIDLbl" HorizontalAlignment="Left" Margin="62,120,0,0" VerticalAlignment="Top" Content="Admin ID:"/>
         <Label x:Name="PasswordLbl" HorizontalAlignment="Left" Margin="62,160,0,0" VerticalAlignment="Top" Content="Password:"/>
         <TextBox x:Name="IDBox" HorizontalAlignment="Left" Margin="146,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />

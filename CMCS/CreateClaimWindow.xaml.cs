@@ -47,18 +47,18 @@ namespace CMCS
             OpenFileDialog fileDialog = new OpenFileDialog
             {
                 Title = "Please Select a Document",
-                Filter = "All Files (*.*)|*.*"
+                Filter = "Text Files(*.PDF;*.DOCX;*.XLSX)|*.PDF;*.DOCX;*.XLSX"// https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.filedialog.filter?view=windowsdesktop-8.0
             };
 
             if (fileDialog.ShowDialog() == true)
             {
                 fileName = fileDialog.FileName;
-                docNamesTb.Text = fileName;
+                docNamesTb.Text = fileName;//https://learn.microsoft.com/en-us/dotnet/desktop/wpf/controls/how-to-set-the-text-content-of-a-textbox-control?view=netframeworkdesktop-4.8
             }
 
         }
 
-        private void CloseAllWindows()
+        private void CloseAllWindows()// https://www.codeproject.com/Questions/118479/Open-a-window-and-close-all-other-in-WPF
         {
             for (int intCounter = App.Current.Windows.Count - 1; intCounter >= 1; intCounter--)
                 App.Current.Windows[intCounter].Close();

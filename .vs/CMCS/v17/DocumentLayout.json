@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\adminreveiwclaimwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\adminreveiwclaimwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\adminsignin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\adminsignin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\claimrejectoraccept.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\claimrejectoraccept.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\lecturersignin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\lecturersignin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\lecturerreviewclaimwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\lecturerreviewclaimwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\lecturermainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\lecturermainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\lecturermainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\lecturermainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\createclaimwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\createclaimwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,36 +43,24 @@
       "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\createclaimwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\lecturermainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\lecturermainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\lecturerreviewclaimwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\lecturerreviewclaimwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\adminreveiwclaimwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\adminreveiwclaimwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\adminsignin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\adminsignin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\claimrejectoraccept.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\claimrejectoraccept.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\adminsignin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\adminsignin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\lecturermainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\lecturermainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\lecturerreviewclaimwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\lecturerreviewclaimwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\lecturerreviewclaimwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\lecturerreviewclaimwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\lecturersignin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\lecturersignin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\lecturersignin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -49,14 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\claimrejectoraccept.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\claimrejectoraccept.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -69,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\lecturersignin.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\lecturersignin.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|c:\\users\\mjpae\\source\\repos\\cmcs\\cmcs\\claimrejectoraccept.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95504811-8C25-4756-AE2F-D783FC573520}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\claimrejectoraccept.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,35 +90,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 407,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "AdminReveiwClaimWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\AdminReveiwClaimWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CMCS\\AdminReveiwClaimWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\AdminReveiwClaimWindow.xaml.cs",
+              "RelativeToolTip": "CMCS\\AdminReveiwClaimWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:35:27.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CMCS\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CMCS\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCgAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:35:11.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "LecturerMainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\LecturerMainWindow.xaml.cs",
               "RelativeDocumentMoniker": "CMCS\\LecturerMainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\LecturerMainWindow.xaml.cs",
               "RelativeToolTip": "CMCS\\LecturerMainWindow.xaml.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwBEAAAA0AAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T15:18:01.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LecturerMainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\LecturerMainWindow.xaml",
               "RelativeDocumentMoniker": "CMCS\\LecturerMainWindow.xaml",
               "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\LecturerMainWindow.xaml",
               "RelativeToolTip": "CMCS\\LecturerMainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-17T15:15:34.714Z"
+              "WhenOpened": "2024-10-17T15:15:34.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "CMCS\\AssemblyInfo.cs",
@@ -122,26 +157,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "AdminSignIn.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\AdminSignIn.xaml.cs",
               "RelativeDocumentMoniker": "CMCS\\AdminSignIn.xaml.cs",
               "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\AdminSignIn.xaml.cs",
               "RelativeToolTip": "CMCS\\AdminSignIn.xaml.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAewB4AAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAIA0wCUAAAB+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:01:32.069Z"
+              "WhenOpened": "2024-10-17T14:01:32.069Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "AdminReveiwClaimWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\AdminReveiwClaimWindow.xaml",
               "RelativeDocumentMoniker": "CMCS\\AdminReveiwClaimWindow.xaml",
               "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\AdminReveiwClaimWindow.xaml",
               "RelativeToolTip": "CMCS\\AdminReveiwClaimWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-10T13:55:49.339Z"
+              "WhenOpened": "2024-09-10T13:55:49.339Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -157,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "CreateClaimWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\CreateClaimWindow.xaml",
               "RelativeDocumentMoniker": "CMCS\\CreateClaimWindow.xaml",
@@ -169,51 +206,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ErrorPopup.xaml",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\ErrorPopup.xaml",
               "RelativeDocumentMoniker": "CMCS\\ErrorPopup.xaml",
               "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\ErrorPopup.xaml",
               "RelativeToolTip": "CMCS\\ErrorPopup.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-10T15:15:19.501Z"
+              "WhenOpened": "2024-09-10T15:15:19.501Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "LecturerReviewClaimWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\LecturerReviewClaimWindow.xaml",
               "RelativeDocumentMoniker": "CMCS\\LecturerReviewClaimWindow.xaml",
               "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\LecturerReviewClaimWindow.xaml",
               "RelativeToolTip": "CMCS\\LecturerReviewClaimWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-10T13:54:56.403Z"
+              "WhenOpened": "2024-09-10T13:54:56.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "AdminSignIn.xaml",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\AdminSignIn.xaml",
               "RelativeDocumentMoniker": "CMCS\\AdminSignIn.xaml",
               "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\AdminSignIn.xaml",
               "RelativeToolTip": "CMCS\\AdminSignIn.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-10T13:54:05.587Z"
+              "WhenOpened": "2024-09-10T13:54:05.587Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\MainWindow.xaml",
               "RelativeDocumentMoniker": "CMCS\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\MainWindow.xaml",
               "RelativeToolTip": "CMCS\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-10T13:19:36.762Z"
+              "WhenOpened": "2024-09-10T13:19:36.762Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "LecturerSignIn.xaml",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\LecturerSignIn.xaml",
               "RelativeDocumentMoniker": "CMCS\\LecturerSignIn.xaml",
@@ -225,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\App.xaml",
               "RelativeDocumentMoniker": "CMCS\\App.xaml",
@@ -237,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
               "Title": "ClaimRejectOrAccept.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\ClaimRejectOrAccept.xaml.cs",
               "RelativeDocumentMoniker": "CMCS\\ClaimRejectOrAccept.xaml.cs",
@@ -245,44 +286,47 @@
               "RelativeToolTip": "CMCS\\ClaimRejectOrAccept.xaml.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAnwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T15:11:41.273Z"
+              "WhenOpened": "2024-09-10T15:11:41.273Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "CreateClaimWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\CreateClaimWindow.xaml.cs",
               "RelativeDocumentMoniker": "CMCS\\CreateClaimWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\CreateClaimWindow.xaml.cs",
               "RelativeToolTip": "CMCS\\CreateClaimWindow.xaml.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowDcAAAAQAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwDwAAAB+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T14:14:52.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "LecturerReviewClaimWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\LecturerReviewClaimWindow.xaml.cs",
               "RelativeDocumentMoniker": "CMCS\\LecturerReviewClaimWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\LecturerReviewClaimWindow.xaml.cs",
               "RelativeToolTip": "CMCS\\LecturerReviewClaimWindow.xaml.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAnwB4AAAAXAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAnwCAAAAB+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T14:09:29.546Z"
+              "WhenOpened": "2024-09-10T14:09:29.546Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "LecturerSignIn.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\LecturerSignIn.xaml.cs",
               "RelativeDocumentMoniker": "CMCS\\LecturerSignIn.xaml.cs",
               "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\LecturerSignIn.xaml.cs",
               "RelativeToolTip": "CMCS\\LecturerSignIn.xaml.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAvwCYAAAANAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAvwCkAAAB+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T14:03:16.457Z"
+              "WhenOpened": "2024-09-10T14:03:16.457Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -292,7 +336,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "LecturerSignIn.xaml",
               "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\CMCS\\CMCS\\LecturerSignIn.xaml",
               "RelativeDocumentMoniker": "CMCS\\LecturerSignIn.xaml",
