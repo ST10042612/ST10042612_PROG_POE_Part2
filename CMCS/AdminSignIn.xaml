@@ -1,0 +1,20 @@
+﻿<Window x:Class="CMCS.AdminSignIn"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CMCS"
+        mc:Ignorable="d"
+        Title="AdminSignIn" Height="420" Width="350">
+    <Grid>
+
+        <Label Content="Please Sign in" HorizontalAlignment="Center" Margin="0,27,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Button Name="SignInBtn" Content="Sign in" HorizontalAlignment="Left" Margin="51,291,0,0" VerticalAlignment="Top" Click="Button_Click" Height="45" Width="77"/>
+        <Button Name="BackBtn" Content="Back" HorizontalAlignment="Left" Margin="228,286,0,0" VerticalAlignment="Top" Height="45" Width="77"/>
+        <Label x:Name="AdminIDLbl" HorizontalAlignment="Left" Margin="62,120,0,0" VerticalAlignment="Top" Content="Admin ID:"/>
+        <Label x:Name="PasswordLbl" HorizontalAlignment="Left" Margin="62,160,0,0" VerticalAlignment="Top" Content="Password:"/>
+        <TextBox x:Name="IDBox" HorizontalAlignment="Left" Margin="146,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <TextBox x:Name="PasswordBox" HorizontalAlignment="Left" Margin="146,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_1" />
+
+    </Grid>
+</Window>

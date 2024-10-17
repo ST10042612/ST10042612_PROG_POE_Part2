@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AdminReveiwClaimWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminSignIn.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ClaimRejectOrAccept.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CreateClaimWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ErrorPopup.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LecturerReviewClaimWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LecturerSignIn.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AdminReveiwClaimWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminSignIn.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ClaimRejectOrAccept.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CreateClaimWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ErrorPopup.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LecturerReviewClaimWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LecturerSignIn.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

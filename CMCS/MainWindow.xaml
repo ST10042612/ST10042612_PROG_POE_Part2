@@ -1,0 +1,16 @@
+﻿<Window x:Class="CMCS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CMCS"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Name="LBtn" Content="Lecturer" HorizontalAlignment="Left" Margin="471,228,0,0" VerticalAlignment="Top" Width="201" Height="62" FontSize="18" Click="LBtn_Click"/>
+        <Button Name="AdminBtn" Content="Programe Cordinator/Academic Manager" HorizontalAlignment="Left" Margin="104,228,0,0" VerticalAlignment="Top" Width="241" Height="62" Click="AdminBtn_Click"/>
+        <Label Content="Welcome to the Contract Monthly Claim System" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="768" FontSize="36"/>
+        <Label Content="Please select one of the following" HorizontalAlignment="Center" Margin="0,171,0,0" VerticalAlignment="Top" FontSize="16"/>
+
+    </Grid>
+</Window>
