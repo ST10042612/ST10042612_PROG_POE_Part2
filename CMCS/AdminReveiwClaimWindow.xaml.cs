@@ -20,7 +20,7 @@ namespace CMCS
     public partial class AdminReveiwClaimWindow : Window
     {
 
-        private string ConnectionString = "DefaultEndpointsProtocol=https;AccountName=unicourses;AccountKey=7JUPMBcK1VU6rCk7FzRYdSOPjnBSQWyjIZtibobMJN44Qh/VXjKzcnr0gJsxYo4Tu30OPVgGcf2w+ASt68rkKg==;EndpointSuffix=core.windows.net";
+        private string ConnectionString = ""; //empty due to github security restrictions
         private string TableName = "Claims";
         private TableClient tableClient;
         private List<Claim> claims;
