@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,6 +20,9 @@ namespace CMCS
     /// </summary>
     public partial class CreateClaimWindow : Window
     {
+
+        private string fileName = "";
+
         public CreateClaimWindow()
         {
             InitializeComponent();
@@ -37,11 +41,29 @@ namespace CMCS
             LecturerMainWindow LMW = new LecturerMainWindow();
             LMW.Show();
         }
+
+        private void UploadDocsBtn_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog fileDialog = new OpenFileDialog
+            {
+                Title = "Please Select a Document",
+                Filter = "All Files (*.*)|*.*"
+            };
+
+            if (fileDialog.ShowDialog() == true)
+            {
+                fileName = fileDialog.FileName;
+                docNamesTb.Text = fileName;
+            }
+
+        }
+
         private void CloseAllWindows()
         {
             for (int intCounter = App.Current.Windows.Count - 1; intCounter >= 1; intCounter--)
                 App.Current.Windows[intCounter].Close();
         }
+
 
     }
 }

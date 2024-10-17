@@ -12,7 +12,7 @@
         <Label x:Name="ClaimCreationLbl" Content="Claim Creation" HorizontalAlignment="Center" Margin="0,24,0,0" VerticalAlignment="Top" FontSize="24"/>
         <TextBox x:Name="HrsWrkdBox" HorizontalAlignment="Left" Margin="180,106,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Label x:Name="HoursWorkedLbl" Content="Hours Worked:" HorizontalAlignment="Left" Margin="86,102,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.184,0.94"/>
-        <Button x:Name="UploadDocsBtn" Content="Click to upload supporting documents:" HorizontalAlignment="Center" Margin="0,190,0,0" VerticalAlignment="Top" Width="242" Height="27"/>
+        <Button x:Name="UploadDocsBtn" Content="Click to upload supporting documents:" HorizontalAlignment="Center" Margin="0,190,0,0" VerticalAlignment="Top" Width="242" Height="27" Click="UploadDocsBtn_Click"/>
         <Label x:Name="HourlyRateLbl" Content="Hourly Rate:" HorizontalAlignment="Left" Margin="86,143,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.184,0.94"/>
         <TextBox x:Name="HourlyRateBox" HorizontalAlignment="Left" Margin="180,147,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBlock x:Name="DocNamesTb" HorizontalAlignment="Center" Margin="0,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="43" Width="142"/>
