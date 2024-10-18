@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Azure.Data.Tables;
+using CMCS;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,9 +21,29 @@ namespace CMCS
     /// </summary>
     public partial class LecturerReviewClaimWindow : Window
     {
+
+        private string ConnectionString = ""; //empty due to github security restrictions, also it is bad practise to put acess keys into a public/private repository
+        private string TableName = "Claims";
+        private TableClient tableClient;
+        private List<Claim> claims;
+
         public LecturerReviewClaimWindow()
         {
             InitializeComponent();
+            tableClient = new TableClient(ConnectionString, TableName);
+            LoadClaimsAsync();
+        }
+
+        private async Task LoadClaimsAsync()// will gather all the claims from the Claims Table and display them in a datagrid
+        {
+            claims = new List<Claim>();
+
+            await foreach (var claim in tableClient.QueryAsync<Claim>())
+            {
+                claims.Add(claim);
+            }
+
+            ClaimsDataGrid.ItemsSource = claims;
         }
 
         //button functionalities

@@ -60,7 +60,7 @@ namespace CMCS
                 if (fileDialog.ShowDialog() == true)// displays a new file dialog
                 {
                     fileName = fileDialog.FileName;
-                    docNamesTb.Text = fileName;//This will display the files name in a text box https://learn.microsoft.com/en-us/dotnet/desktop/wpf/controls/how-to-set-the-text-content-of-a-textbox-control?view=netframeworkdesktop-4.8
+                    DocNamesTb.Text = fileName;//This will display the files name in a text box https://learn.microsoft.com/en-us/dotnet/desktop/wpf/controls/how-to-set-the-text-content-of-a-textbox-control?view=netframeworkdesktop-4.8
                 }
             }
             catch (FileNotFoundException) //catches an exeption if a file cannot be found
