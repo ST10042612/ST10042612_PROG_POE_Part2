@@ -7,7 +7,14 @@
         mc:Ignorable="d"
         Title="ErrorPopup" Height="250" Width="600">
     <Grid>
-        <Button x:Name="OKBtn" Content="OK" HorizontalAlignment="Center" Margin="0,152,0,0" VerticalAlignment="Top" FontSize="24" Click="OKBtn_Click"/>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FFFF2F2F" Offset="1"/>
+                <GradientStop Color="#FFF52929" Offset="0.248"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="OKBtn" Content="OK" HorizontalAlignment="Center" Margin="0,152,0,0" VerticalAlignment="Top" FontSize="24" Click="OKBtn_Click" BorderBrush="Black" Background="White"/>
         <Label x:Name="ErrorMsgLbl" Content="An Error has occured, &#xD;&#xA;please make sure you have entered the correct information, &#xD;&#xA;press ok once you wish to return to the previeous page" HorizontalAlignment="Center" Margin="0,50,0,0" VerticalAlignment="Top" FontSize="20" Height="97"/>
 
     </Grid>
