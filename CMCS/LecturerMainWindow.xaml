@@ -8,8 +8,8 @@
         Title="LecturerMainWindow" Height="450" Width="800">
     <Grid Background="#FF48CAE4">
         <Label Content="Please select one" HorizontalAlignment="Center" Margin="0,34,0,0" VerticalAlignment="Top" FontSize="36"/>
-        <Button x:Name="ReviewClaimsBtn" Content="Review Claims" HorizontalAlignment="Left" Margin="185,256,0,0" VerticalAlignment="Top" FontSize="24" Click="ReviewClaimsBtn_Click" Background="White"/>
-        <Button x:Name="CreateClaimBtn" Content="Create Claim" HorizontalAlignment="Left" Margin="458,256,0,0" VerticalAlignment="Top" FontSize="24" Click="CreateClaimBtn_Click" Background="White"/>
+        <Button x:Name="ReviewClaimsBtn" Content="Review Claims" HorizontalAlignment="Left" Margin="185,256,0,0" VerticalAlignment="Top" FontSize="24" Click="ReviewClaimsBtn_Click" Background="White" BorderBrush="Black"/>
+        <Button x:Name="CreateClaimBtn" Content="Create Claim" HorizontalAlignment="Left" Margin="458,256,0,0" VerticalAlignment="Top" FontSize="24" Click="CreateClaimBtn_Click" Background="White" BorderBrush="Black"/>
 
     </Grid>
 </Window>

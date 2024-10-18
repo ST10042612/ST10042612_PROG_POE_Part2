@@ -8,8 +8,8 @@
         Title="AdminReveiwClaimWindow" Height="450" Width="800">
     <Grid Background="#FF48CAE4">
 
-        <Button x:Name="BackBtn" Content="Back" HorizontalAlignment="Left" Margin="634,363,0,0" VerticalAlignment="Top" Height="40" Width="86" FontSize="18" Click="BackBtn_Click" Background="White"/>
-        <DataGrid Name="ClaimsDataGrid" AutoGenerateColumns="False" SelectionChanged="ClaimsDataGrid_SelectionChanged" Margin="268,80,268,150">
+        <Button x:Name="BackBtn" Content="Back" HorizontalAlignment="Left" Margin="634,363,0,0" VerticalAlignment="Top" Height="40" Width="86" FontSize="18" Click="BackBtn_Click" Background="White" BorderBrush="Black"/>
+        <DataGrid Name="ClaimsDataGrid" AutoGenerateColumns="False" SelectionChanged="ClaimsDataGrid_SelectionChanged" Margin="268,80,268,150" Background="#FFF0F0F0" BorderBrush="Black" Foreground="Black">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Claim ID" Binding="{Binding ClaimID}" />
                 <DataGridTextColumn Header="Hours Worked" Binding="{Binding HoursWorked}" />
@@ -18,8 +18,8 @@
             </DataGrid.Columns>
         </DataGrid>
         <Label x:Name="ClaimsLbl" Content="Claims to Review" HorizontalAlignment="Center" Margin="0,33,0,0" VerticalAlignment="Top" FontSize="24"/>
-        <Button x:Name="RejectBtn" Content="Reject" HorizontalAlignment="Left" Margin="446,301,0,0" VerticalAlignment="Top" Height="40" Width="86" FontSize="18" Click="RejectBtn_Click" Background="White"/>
-        <Button x:Name="AcceptBtn" Content="Accept" HorizontalAlignment="Left" Margin="268,301,0,0" VerticalAlignment="Top" Height="40" Width="86" FontSize="18" Click="AcceptBtn_Click" Background="White"/>
+        <Button x:Name="RejectBtn" Content="Reject" HorizontalAlignment="Left" Margin="446,301,0,0" VerticalAlignment="Top" Height="40" Width="86" FontSize="18" Click="RejectBtn_Click" Background="White" BorderBrush="Black"/>
+        <Button x:Name="AcceptBtn" Content="Accept" HorizontalAlignment="Left" Margin="268,301,0,0" VerticalAlignment="Top" Height="40" Width="86" FontSize="18" Click="AcceptBtn_Click" Background="White" BorderBrush="Black"/>
 
     </Grid>
 </Window>
