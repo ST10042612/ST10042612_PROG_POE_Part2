@@ -23,5 +23,10 @@ namespace CMCS
         {
             InitializeComponent();
         }
+
+        private void OKBtn_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
     }
 }

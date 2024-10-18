@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="ErrorPopup" Height="250" Width="600">
     <Grid>
-        <Button x:Name="OKBtn" Content="OK" HorizontalAlignment="Center" Margin="0,152,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Button x:Name="OKBtn" Content="OK" HorizontalAlignment="Center" Margin="0,152,0,0" VerticalAlignment="Top" FontSize="24" Click="OKBtn_Click"/>
         <Label x:Name="ErrorMsgLbl" Content="An Error has occured, &#xD;&#xA;please make sure you have entered the correct information, &#xD;&#xA;press ok once you wish to return to the previeous page" HorizontalAlignment="Center" Margin="0,50,0,0" VerticalAlignment="Top" FontSize="20" Height="97"/>
 
     </Grid>

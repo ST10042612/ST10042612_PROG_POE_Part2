@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CMCS
 {
-    class Claim : ITableEntity 
+    class Claim : ITableEntity //This class will be used to programatically represent a row or multiple rows from the entries in an Azure table
     {
         public string PartitionKey { get; set; } = "Claims";
         public string RowKey { get; set; } = Guid.NewGuid().ToString();

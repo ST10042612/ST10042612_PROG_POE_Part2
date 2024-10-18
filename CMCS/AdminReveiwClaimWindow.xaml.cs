@@ -19,8 +19,8 @@ namespace CMCS
     
     public partial class AdminReveiwClaimWindow : Window
     {
-
-        private string ConnectionString = ""; //empty due to github security restrictions
+        //variable declaration
+        private string ConnectionString = ""; //empty due to github security restrictions, also it is bad practise to put acess keys into a public/private repository
         private string TableName = "Claims";
         private TableClient tableClient;
         private List<Claim> claims;
@@ -32,7 +32,7 @@ namespace CMCS
             LoadClaimsAsync();
         }
 
-        private async Task LoadClaimsAsync()
+        private async Task LoadClaimsAsync()// will gather all the claims from the Claims Table and display them in a datagrid
         {
             claims = new List<Claim>();
 
@@ -43,7 +43,7 @@ namespace CMCS
 
             ClaimsDataGrid.ItemsSource = claims;
         }
-        private void ClaimsDataGrid_SelectionChanged(object sender, System.Windows.Controls.SelectionChangedEventArgs e)
+        private void ClaimsDataGrid_SelectionChanged(object sender, System.Windows.Controls.SelectionChangedEventArgs e) //will only allow the manager to accept or reject a claim if they have selected it from the grid first
         {
             AcceptBtn.IsEnabled = ClaimsDataGrid.SelectedItem != null;
             RejectBtn.IsEnabled = ClaimsDataGrid.SelectedItem != null;
@@ -51,15 +51,9 @@ namespace CMCS
 
 
         //Button Functionallities
-
         private void BackBtn_Click(object sender, RoutedEventArgs e)
         {
             CloseAllWindows();
-        }
-        private void CloseAllWindows()// https://www.codeproject.com/Questions/118479/Open-a-window-and-close-all-other-in-WPF
-        {
-            for (int intCounter = App.Current.Windows.Count - 1; intCounter >= 1; intCounter--)
-                App.Current.Windows[intCounter].Close();
         }
 
         private void AcceptBtn_Click(object sender, RoutedEventArgs e)
@@ -71,8 +65,11 @@ namespace CMCS
         {
             
         }
-
-
+        private void CloseAllWindows()//Closes all currently open windows https://www.codeproject.com/Questions/118479/Open-a-window-and-close-all-other-in-WPF
+        {
+            for (int intCounter = App.Current.Windows.Count - 1; intCounter >= 1; intCounter--)
+                App.Current.Windows[intCounter].Close();
+        }
 
     }
 }
